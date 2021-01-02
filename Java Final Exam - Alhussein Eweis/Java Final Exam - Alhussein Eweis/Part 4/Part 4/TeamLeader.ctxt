@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TeamLeader
+comment1.params=
+comment1.target=TeamLeader()
+comment2.params=
+comment2.target=double\ getMonthlyBonus()
+comment3.params=
+comment3.target=int\ getRequiredTrainingHours()
+comment4.params=
+comment4.target=int\ attendedTrainingHours()
+comment5.params=monthlyBonus
+comment5.target=void\ setMonthlyBonus(double)
+comment6.params=requiredTrainingHours
+comment6.target=void\ setRequiredTrainingHours(int)
+comment7.params=attendedTrainingHours
+comment7.target=void\ setAttendedTrainingHours(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=Employee()
+comment2.params=
+comment2.target=java.lang.String\ getEmployeeName()
+comment3.params=
+comment3.target=java.lang.String\ getEmployeeNumber()
+comment4.params=
+comment4.target=java.time.LocalDate\ getHireDate()
+comment5.params=o
+comment5.target=boolean\ isObjectInteger(java.lang.Object)
+comment6.params=employeeName
+comment6.target=void\ setEmployeeName(java.lang.String)
+comment7.params=employeeNumber
+comment7.target=void\ setEmployeeNumber(java.lang.String)
+comment8.params=hireDate
+comment8.target=void\ setHireDate(java.time.LocalDate)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

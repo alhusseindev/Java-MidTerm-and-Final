@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShiftSupervisor
+comment1.params=
+comment1.target=ShiftSupervisor()
+comment2.params=
+comment2.target=double\ getAnnualSalary()
+comment3.params=
+comment3.target=double\ annualProductionBonus()
+comment4.params=annualSalary
+comment4.target=void\ setAnnualSalary(double)
+comment5.params=annualProductionBonus
+comment5.target=void\ setAnnualProductionBonus(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
